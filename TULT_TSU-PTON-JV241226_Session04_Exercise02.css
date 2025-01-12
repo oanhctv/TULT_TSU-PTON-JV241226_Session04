@@ -1,0 +1,18 @@
+    header {
+        background-color: black;
+        color: aliceblue;
+        text-align: center;
+        font-weight: 900;
+        line-height: 4;
+    }
+    nav {
+        background-color:rgb(152, 150, 150);
+        color:black;
+        text-align: center;
+        
+    }
+    nav a {
+        color: #000;
+        text-decoration: none;
+        padding: 10px;
+    }
