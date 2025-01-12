@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(238, 236, 236);
+}
+header {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+img {
+    display:block; margin:auto;
+}
+p {
+    text-align: justify;
+}
+b {
+    color:red;
+}

@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+input, textarea {
+    width: 500px;
+    border-radius: 3px;
+    border-width: 1px;}
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+#submit1 {
+        height: 30px;
+        border: none;
+        background-color:black;
+        color:white;
+        font-size: 20px;
+    }
+input {
+    height: 30px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+textarea {
+    height: 60px;
+}
