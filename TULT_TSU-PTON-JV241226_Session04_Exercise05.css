@@ -1,0 +1,18 @@
+h1 {color:chocolate;}
+#p1 {
+    color:rgb(30, 30, 210);
+}
+#p2 {
+    color:#d21e1e;
+}
+#p3 {
+    background-color: hsl(61, 100%, 88%); border-left: 5px solid orange; padding-left: 10px;
+}
+#b1 {
+    color: chocolate;
+}
+a {
+    text-decoration:none;
+    color: chocolate;
+    color: chocolate;
+}
